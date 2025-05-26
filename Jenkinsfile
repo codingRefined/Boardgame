@@ -8,6 +8,8 @@ pipeline {
   maven 'mavenLatest'
 }
 
+    
+
     stages {
        
         stage('compile'){
