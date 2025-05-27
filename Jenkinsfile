@@ -5,9 +5,6 @@ pipeline {
   jdk 'jdk17'
   maven 'mavenLatest'
 }
-error
-    
-
     stages {
        
         stage('compile'){
