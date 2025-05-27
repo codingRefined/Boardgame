@@ -6,8 +6,6 @@ pipeline {
   maven 'mavenLatest'
 }
 
-    eroro
-
     stages {
        
         stage('compile'){
