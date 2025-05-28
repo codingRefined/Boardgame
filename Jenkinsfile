@@ -3,6 +3,7 @@ pipeline {
   label 'slave'
 }
 
+    
     tools {
   jdk 'jdk17'
   maven 'mavenLatest'
